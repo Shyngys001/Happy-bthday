@@ -14,5 +14,7 @@ body {
   display: inline-block;
   left: 0;
   top: 0;
-  background-color: #262375;
+  background-image: url('https://web.telegram.org/k/download/867365363');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
